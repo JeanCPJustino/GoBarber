@@ -1,9 +1,9 @@
 module.exports = {
-  dialect: 'postgrees',
+  dialect: 'postgres',
   host: 'localhost',
   username: 'postgres',
   password: 'docker',
-  database: 'gobarbaer',
+  database: 'gobarber',
   define: {
     timestamps: true,
     /* ESSAS CONFIGURAÇÕES DEFINEM A PADRONIZAÇÃO DE NOMENCLATURA DE CRIAÇÃO
